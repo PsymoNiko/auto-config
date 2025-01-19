@@ -13,7 +13,6 @@ I believe in turning **ideas into reality** and building cool projects that make
 
 ### Let's connect:
 - [GitHub](https://github.com/psymoniko)
-#- [LinkedIn](https://linkedin.com/in/yourusername)
 - [WebSite](https://alimohammadnia.ir/)
 
 ## 💬 A Short Catchy Quote
