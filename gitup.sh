@@ -16,6 +16,16 @@ git add .
 # Commit with the provided message
 git commit -m "$commit_message"
 
+# Get the current branch name
+current_branch=$(git branch --show-current)
+
+# Check if the current branch was found
+if [ -z "$current_branch" ]; then
+    echo "Error: Could not determine the current branch."
+    exit 1
+fi
+
 # Push to the current branch
-git push
+echo "Pushing changes to branch: $current_branch"
+git push origin "$current_branch"
 
