@@ -23,3 +23,12 @@ _"Let's turn ideas into reality! 🚀"_
 ---
 
 Thank you for checking out my projects! Stay tuned for more exciting work coming your way. 💻🎨
+
+
+
+
+### GITUP
+
+```
+ sudo cp gitup.sh /usr/local/bin/gitup
+```
